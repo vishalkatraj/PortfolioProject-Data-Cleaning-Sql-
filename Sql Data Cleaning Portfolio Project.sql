@@ -1,7 +1,5 @@
 /*
-
-Cleaning Data in SQL 
-
+Data Cleaning in SQL 
 */
 
 
